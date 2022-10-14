@@ -1,4 +1,6 @@
 # PalsPolls
+THIS IS A COPY OF THE STATE OF AN APP AS IT IS IN A STATE THAT IT IS EXTREMELY EASY TO MANIPULATE FOR FUTURE PROJECTS >>> THIS NOTHING TO DO WITH ...
+
 Pal Polls is a Cross-Platorm mobile app for Android and Iphone that allows users to send their friends polls, via a feed, that can be voted on.
 
 Currently being coded in Visual Studio, Xcode, Atom using Xamarin Forms xaml and xaml.cs files with the exception of IOS assets and storyboards.
